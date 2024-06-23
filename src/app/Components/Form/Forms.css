@@ -1,0 +1,16 @@
+body {
+    background-color: aliceblue;
+}
+
+.FormDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    padding: 10px 10px;
+}
+
+#heading {
+    font-weight: bold;
+}
