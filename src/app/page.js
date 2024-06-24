@@ -1,9 +1,11 @@
 // import Image from "next/image";
 
+import NavBar from "./Components/NavBar/NavBar";
+
 export default function Home() {
   return (
     <>
-      <h1>Hello Pakistan</h1>
+      <NavBar />
     </>
   );
 }
